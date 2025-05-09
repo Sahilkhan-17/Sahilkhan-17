@@ -49,7 +49,7 @@
 ## 🐍 Contribution Snake
 
 <!-- Snake eating your contributions -->
-![Snake animation](https://github.com/Sahilkhan-17/SahilKhan-17/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://github.com/Sahilkhan-17/Sahilkhan-17/raw/output/snake.svg)
 
 ## 📝 Latest Blog Posts
 
