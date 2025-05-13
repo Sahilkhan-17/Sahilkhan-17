@@ -46,7 +46,7 @@
 </p>
 
 
-## 🐍 Contribution Snake
+## 🐍 Github Contribution 
 
 <!-- Snake eating your contributions -->
 ![Contribution Snake](https://github.com/Sahilkhan-17/Sahilkhan-17/raw/output/snake.svg)
