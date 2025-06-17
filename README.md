@@ -1,11 +1,12 @@
 <h2 align="center"> 
-  Hey! Nice to see you 👋<br/>
-  Welcome to my GitHub Profile!
+  Hey! Nice to see you <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/><br/>
+  Welcome to my GitHub Profile! 
 </h2>
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 
 <!-- Banner -->
 <div align="">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=800&color=FFA500&width=800&lines=PLAYER%3A+SAHIL_KHAN;CLASS%3A+FULLSTACK_DEV;LEVEL%3A+99;XP%3A+999999%2F1000;WEAPONS%3A+JAVA%2CJavaScript%2CANGULAR%2CSpringBoot;ARMOR%3A+TYPESCRIPT%2BESLINT;POWERUPS%3A+%5B%2B%5D+MCA;BOSSES_DEFEATED%3A+LEGACY_CODE%2C+PROD_BUGS;MISSION%3A+BUILD_THE_FUTURE" alt="Sahil Khan" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=800&color=FFA500&width=800&lines=PLAYER%3A+SAHIL_KHAN;CLASS%3A+FULLSTACK_DEV;LEVEL%3A+99;XP%3A+999999%2F1000;WEAPONS%3A+JAVA%2CJavaScript%2CANGULAR%2CSpringBoot;ARMOR%3A+TYPESCRIPT%2BESLINT;POWERUPS%3A+%5B%2B%5D+MCA;BOSSES_DEFEATED%3A+LEGACY_CODE%2C+PROD_BUGS;MISSION%3A+BUILD_THE_FUTURE" alt="Sahil Khan" /> 
 </div>
 
 - 🔭 Passionate about building scalable web solutions  
