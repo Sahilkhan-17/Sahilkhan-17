@@ -58,6 +58,9 @@
 - [Number guessing game using Java](https://sahilkhan17.hashnode.dev/java-project-for-beginners)
 - [Create your first To-Do list using Java](https://sahilkhan17.hashnode.dev/java-project-for-beginners-1)
 
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🤝 Let's Connect
 <!-- Social badges with custom icons -->
