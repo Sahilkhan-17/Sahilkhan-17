@@ -1,5 +1,5 @@
 <h2 align="center"> 
-  Hey! Nice to see you 👋<br/>
+  Hey! <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30">  Nice to see you <br/>
   Welcome to my GitHub Profile! 
 </h2>
 
@@ -13,7 +13,7 @@
 - 🔭 Passionate about building scalable web solutions  
 - 🌱 Currently Learning **Cloud Architecture** and **DevOps**  
 - 👯 Looking to collaborate on **Open Source Projects**  
-- ⚡ Fun fact: I ❤️ Chai☕
+- 👾 Fun fact: Judges a book by number of pages.
 
 </br>
 
@@ -43,7 +43,8 @@
 </div>
 
 <p align="center">
-  <img height="160em" src"https://github-readme-streak-stats.herokuapp.com/?user=Sahilkhan-17&theme=radical" />
+  <!-- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilkhan-17&theme=radical" /> -->
+  <img height="160em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sahilkhan-17&theme=radical" /> 
 </p>
 
 <!-- GitHub streak stats 
@@ -65,11 +66,16 @@
 <!-- ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 -->
-
+  
 ## 📝 Latest Blog Posts
 - [Number guessing game using Java](https://sahilkhan17.hashnode.dev/java-project-for-beginners)
 - [Create your first To-Do list using Java](https://sahilkhan17.hashnode.dev/java-project-for-beginners-1)
-
+<!--
+[![Num_Guessing_Game](https://img.shields.io/badge/Num_Guessing_Game-blueviolet?style=for-the-badge&logo=hashnode&logoColor=white)](https://sahilkhan17.hashnode.dev/java-project-for-beginners)  
+[![To_Do_list](https://img.shields.io/badge/To_Do_list-00B4D8?style=for-the-badge&logo=hashnode&logoColor=white)](https://sahilkhan17.hashnode.dev/java-project-for-beginners-1)  
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
+-->
+ 
 </br>
 
 ## 🌐 Let's Connect
@@ -94,4 +100,3 @@
 <!--   <img src="https://komarev.com/ghpvc/?username=Sahilkhan-17&label=Profile%20views&color=0e75b6&style=flat" alt="Sahilkhan-17" />  -->
   <img src="https://komarev.com/ghpvc/?username=Sahilkhan-17&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Sahilkhan-17" /> 
 </p>
-
