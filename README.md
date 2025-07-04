@@ -15,7 +15,6 @@
 - 👯 Looking to collaborate on **Open Source Projects**  
 - 👾 Fun fact: Judges a book by number of pages.
 
-</br>
 
 ## 🛠 Things I code with
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/Java)
@@ -33,7 +32,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 
-</br>
+
 
 ## 📊 GitHub Stats <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 <!-- Dynamic GitHub stats with custom theme -->
@@ -61,7 +60,6 @@
 ## 🐍 Github Contribution 
 ![Contribution Snake](https://github.com/Sahilkhan-17/Sahilkhan-17/raw/output/snake.svg)
 
-</br>
 
 <!-- ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
@@ -76,7 +74,6 @@
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 -->
  
-</br>
 
 ## 🌐 Let's Connect
 <p align="center"> 
@@ -94,7 +91,6 @@
   </a>
 </p>
 
-</br>
 
 <p align="center"> 
 <!--   <img src="https://komarev.com/ghpvc/?username=Sahilkhan-17&label=Profile%20views&color=0e75b6&style=flat" alt="Sahilkhan-17" />  -->
