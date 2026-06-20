@@ -1,3 +1,8 @@
+<!-- Header Wave -->
+<!-- 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=130&section=header" /> 
+-->
+
 <h2 align="center"> 
   Hey! <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30">  Nice to see you <br/>
   Welcome to my GitHub Profile! 
@@ -15,7 +20,7 @@
 - 👯 Looking to collaborate on **Open Source Projects**  
 - 👾 Fun fact: Judges a book by number of pages.
 
-
+<!-- 
 ## 🛠 Things I code with
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/Java)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -32,7 +37,12 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 
+-->
 
+## 🛠 Things I code with
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,angular,react,nodejs,py,docker,html,css,mysql,postman,bootstrap,tailwind,git&theme=dark&perline=15" alt="Sahil's Tech Stack" />
+</p>
 
 ## 📊 GitHub Stats <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 <!-- Dynamic GitHub stats with custom theme -->
@@ -60,21 +70,22 @@
 ## 🐍 Github Contribution 
 ![Contribution Snake](https://github.com/Sahilkhan-17/Sahilkhan-17/raw/output/snake.svg)
 
-
 <!-- ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 -->
-  
+
+<!--
 ## 📝 Latest Blog Posts
 - [Number guessing game using Java](https://sahilkhan17.hashnode.dev/java-project-for-beginners)
 - [Create your first To-Do list using Java](https://sahilkhan17.hashnode.dev/java-project-for-beginners-1)
+-->
+
 <!--
 [![Num_Guessing_Game](https://img.shields.io/badge/Num_Guessing_Game-blueviolet?style=for-the-badge&logo=hashnode&logoColor=white)](https://sahilkhan17.hashnode.dev/java-project-for-beginners)  
 [![To_Do_list](https://img.shields.io/badge/To_Do_list-00B4D8?style=for-the-badge&logo=hashnode&logoColor=white)](https://sahilkhan17.hashnode.dev/java-project-for-beginners-1)  
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 -->
  
-
 ## 🌐 Let's Connect
 <p align="center"> 
   <a href="https://linkedin.com/in/sahilkhan17">
@@ -83,16 +94,20 @@
   <a href="https://github.com/Sahilkhan-17">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://reddit.com/u/burning_desire_17/s/cpi50oPJnG">
+  <!-- <a href="https://reddit.com/u/burning_desire_17/s/cpi50oPJnG"> 
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a> 
+  -->
   <a href="https://hashnode.com/@SahilKhan17">
     <img src="https://img.shields.io/badge/HashNode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="HashNode"/>
   </a>
 </p>
 
-
 <p align="center"> 
 <!--   <img src="https://komarev.com/ghpvc/?username=Sahilkhan-17&label=Profile%20views&color=0e75b6&style=flat" alt="Sahilkhan-17" />  -->
   <img src="https://komarev.com/ghpvc/?username=Sahilkhan-17&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Sahilkhan-17" /> 
 </p>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=100&section=footer" /> 
+
